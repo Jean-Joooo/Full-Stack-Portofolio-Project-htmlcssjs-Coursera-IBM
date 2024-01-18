@@ -10,6 +10,4 @@ Creative Styling: Leveraged CSS to enhance the visual appeal of the portfolio, i
 
 Interactive Elements: Integrated JavaScript to add interactive elements, creating a seamless and engaging user experience within the portfolio.
 
-The project embraced a holistic development approach, combining HTML for structure, CSS for styling, and JavaScript for interactivity. This comprehensive integration allowed for the creation of a well-rounded portfolio that not only showcased technical skills but also conveyed a sense of creativity and individuality.
-
-The Portfolio Final Exam Project, crafted with HTML, CSS, and JavaScript, stands as a culmination of technical proficiency and design finesse. 
+The project embraced a holistic development approach, combining HTML for structure, CSS for styling, and JavaScript for interactivity. This comprehensive integration allowed for the creation of a well-rounded portfolio that not only showcased technical skills but also conveyed some sense of creativity.
