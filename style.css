@@ -54,6 +54,11 @@ body {
   float:left;
 }
 
+span {
+    color: black;
+    text-decoration: underline;
+}
+
 /* Titles */
 
 h2 {
