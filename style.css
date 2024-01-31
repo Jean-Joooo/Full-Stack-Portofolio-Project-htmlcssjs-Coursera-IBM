@@ -37,7 +37,8 @@ body {
 
 .profile_name {
   float: left;
-  padding-left: 2cm;
+  padding-left: 50px;
+  font-size: 22px;
   text-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em black;
 }
 
@@ -57,7 +58,6 @@ body {
 
 span {
     color: black;
-    text-decoration: underline;
     text-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em black;
 }
 
