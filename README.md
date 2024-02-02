@@ -1,6 +1,6 @@
 This is a dynamic portfolio that I crafted during my Coursera/IBM Full Stack courses, I mainly used HTML, CSS, and JS for this project -----> https://jean-joooo.github.io/Full-Stack-Portofolio-Project-htmlcssjs-Coursera-IBM/
 
-In an engaging exploration, I have into the creation of a dynamic portfolio for an exam project, combining HTML, CSS, and JavaScript. This project aimed to showcase a harmonious blend of design, styling, and interactivity, resulting in a polished and personalized portfolio.
+I crafted a dynamic portfolio for an exam project, by combining HTML, CSS, and JavaScript. This project aimed to showcase a harmonious blend of design, styling, and interactivity, resulting in a polished and personalized portfolio.
 
 - The primary focus of this project was to demonstrate proficiency in HTML, CSS, and JavaScript, creating a dynamic and visually appealing portfolio. The project serves as a testament to the integration of these fundamental web technologies to build an interactive and informative showcase.
 
