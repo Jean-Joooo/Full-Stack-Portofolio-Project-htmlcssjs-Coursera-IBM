@@ -81,6 +81,12 @@ h2 {
   text-shadow: 1px 1px 1px white, 0 0 1em white, 0 0 0.1em black;
 }
 
+h3 {
+    color: black;
+    text-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em black;
+    font-size: 18px;
+}
+
 .introduction {
   text-align: justify;
   font-size: 30px;
