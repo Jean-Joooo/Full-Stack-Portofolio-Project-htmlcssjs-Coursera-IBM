@@ -10,4 +10,4 @@ In an engaging exploration, I have into the creation of a dynamic portfolio for 
 
 - Interactive Elements: Integrated JavaScript to add interactive elements, creating a seamless and engaging user experience within the portfolio.
 
-- The project embraced a holistic development approach, combining HTML for structure, CSS for styling, and JavaScript for interactivity. This comprehensive integration allowed for the creation of a well-rounded portfolio that not only showcased technical skills but also conveys some sense of creativity.
+The project embraced a holistic development approach, combining HTML for structure, CSS for styling, and JavaScript for interactivity. This comprehensive integration allowed for the creation of a well-rounded portfolio that not only showcased technical skills but also conveys some sense of creativity.
