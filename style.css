@@ -52,14 +52,18 @@ body {
 }
 
 .contact_info img {
-  width:25px;
-  margin-right: 10px;
-  float:left;
+    width: 25px;
+    margin-right: 10px;
+    float: left;
+    box-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em black;
+    margin: 5px;
 }
 
 span {
     color: black;
     text-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em black;
+    text-decoration: underline;
+    font-size: 18px;
 }
 
 /* Titles */
@@ -103,7 +107,7 @@ h2 {
 }
 
 #about-me h1 {
-  font-size: 65px;
+  font-size: 40px;
     margin-top: 19px;
     color: #7600bc;
     border-radius: 10px;
