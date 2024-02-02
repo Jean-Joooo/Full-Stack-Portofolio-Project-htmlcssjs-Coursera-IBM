@@ -115,11 +115,11 @@ h3 {
 }
 
 #about-me h1 {
-  font-size: 40px;
-    margin-top: 19px;
+    font-size: 40px;
+    margin-top: 4px;
     color: #7600bc;
-    border-radius: 10px;
     text-shadow: 1px 1px 1px white, 0 0 1em white, 0 0 0.1em black;
+    line-height: 1px;
 }
 
 #about-me p {
