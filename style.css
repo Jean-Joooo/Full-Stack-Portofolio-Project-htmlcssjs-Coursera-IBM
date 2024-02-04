@@ -11,14 +11,14 @@ body {
   margin-right:-1cm;
   margin-top:-1cm;
   padding-top: 2cm;
-  padding-bottom: 2cm;
+  padding-bottom: 1.5cm;
   height: 5mm;
  }
 
 .topmenu {
     color: lightcyan;
     font-weight: 800;
-    margin: 5px 5px 20px 50px;
+    margin: 5px 15px 20px 50px;
     padding: 10px;
     text-decoration: underline;
     text-shadow: 1px 1px 1px grey, 0 0 1em black, 0 0 0.1em black;
