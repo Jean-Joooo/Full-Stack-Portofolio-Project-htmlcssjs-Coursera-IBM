@@ -5,7 +5,7 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color: #BD70F6;
+  background-color: #B35FF1;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -22,7 +22,7 @@ body {
   padding: 20px;
   font-size: 20px;
   text-decoration:underline;
-  text-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em black;
+  text-shadow: 1px 1px 1px grey, 0 0 1em black, 0 0 0.1em black;
 }
 
 .topmenu:hover {
