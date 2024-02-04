@@ -25,3 +25,13 @@ function showPopup(true) {
     document.getElementById('popup').style.visibility = 'hidden'
   }
 }
+
+// Handle Gtranslate scrolly
+window.addEventListener('scroll', function() {
+  let translateWrapper = document.querySelector('.gtranslate_wrapper');
+  if (window.scrollY > 50) { 
+    translateWrapper.style.display = 'none';
+  } else {
+    translateWrapper.style.display = 'block';
+  }
+});
