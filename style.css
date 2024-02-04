@@ -66,6 +66,20 @@ span {
     font-size: 18px;
 }
 
+.hamburger-menu {
+  display: none; /* Initially hide the hamburger menu */
+}
+
+@media (max-width: 768px) {
+  .topdiv {
+    display: none; /* Hide the existing top menu links above 768px */
+  }
+
+  .hamburger-menu {
+    display: block; /* Show the hamburger menu below 768px */
+  }
+}
+
 /* Titles */
 
 h2 {
