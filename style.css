@@ -66,6 +66,12 @@ span {
     font-size: 18px;
 }
 
+/* Gtranslate wrapper style */
+select.gt_selector.notranslate {
+    text-transform: none;
+    text-shadow: 1px 1px 1px #cedde0, 0 0 1em #cedde0, 0 0 0.1em #cedde0;
+    border-radius: 10px;
+}
 /* Titles */
 
 h2 {
