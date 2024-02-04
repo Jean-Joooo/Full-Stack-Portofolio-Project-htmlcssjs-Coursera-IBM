@@ -5,7 +5,7 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color:  blueviolet;
+  background-color: #C590EC;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -64,20 +64,6 @@ span {
     text-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em black;
     text-decoration: underline;
     font-size: 18px;
-}
-
-.hamburger-menu {
-  display: none; /* Initially hide the hamburger menu */
-}
-
-@media (max-width: 768px) {
-  .topdiv {
-    display: none; /* Hide the existing top menu links above 768px */
-  }
-
-  .hamburger-menu {
-    display: block; /* Show the hamburger menu below 768px */
-  }
 }
 
 /* Titles */
