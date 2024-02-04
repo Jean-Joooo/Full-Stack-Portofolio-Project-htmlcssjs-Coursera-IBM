@@ -18,11 +18,11 @@ function addRecommendation() {
   }
 }
 
-function showPopup(true) {
-  if (bool) {
-    document.getElementById('popup').style.visibility = 'visible'
+function showPopup(isVisible) {
+  if (isVisible) {
+    document.getElementById('popup').style.visibility = 'visible';
   } else {
-    document.getElementById('popup').style.visibility = 'hidden'
+    document.getElementById('popup').style.visibility = 'hidden';
   }
 }
 
