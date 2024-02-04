@@ -57,6 +57,7 @@ body {
     float: left;
     box-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em grey;
     margin: 5px;
+    background: green;
 }
 
 span {
