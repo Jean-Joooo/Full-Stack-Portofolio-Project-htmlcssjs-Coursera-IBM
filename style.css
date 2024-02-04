@@ -16,13 +16,13 @@ body {
  }
 
 .topmenu {
-  color: lightgray;
-  font-weight: bolder;
-  margin: 10px;
-  padding: 20px;
-  font-size: 20px;
-  text-decoration:underline;
-  text-shadow: 1px 1px 1px grey, 0 0 1em black, 0 0 0.1em black;
+    color: lightcyan;
+    font-weight: 800;
+    margin: 5px 40px 25px 10px;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px grey, 0 0 1em black, 0 0 0.1em black;
 }
 
 .topmenu:hover {
@@ -37,7 +37,7 @@ body {
 
 .profile_name {
   float: left;
-  padding-left: 50px;
+  padding-left: 35px;
   font-size: 22px;
   text-shadow: 1px 1px 1px grey, 0 0 1em grey, 0 0 0.1em black;
   margin-top: -30px;
