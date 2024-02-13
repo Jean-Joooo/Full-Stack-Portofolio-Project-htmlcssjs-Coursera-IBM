@@ -1,4 +1,4 @@
-IBM | Coursera Full Stack Courses: HTML, CSS, Js
+# IBM | Coursera Full Stack Courses: HTML, CSS, Js
 
 This is a dynamic portfolio that I crafted during my courses, during this project, I mainly used HTML, CSS, and Js.
 
