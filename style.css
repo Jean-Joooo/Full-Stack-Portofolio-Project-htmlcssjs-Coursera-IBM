@@ -30,7 +30,7 @@ body {
 }
 
 .topdiv {
-  float: inherit;
+  float: inline-end;
   padding-right: 1cm;
 }
 
