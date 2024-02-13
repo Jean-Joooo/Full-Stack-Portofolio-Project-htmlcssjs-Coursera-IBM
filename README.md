@@ -1,4 +1,6 @@
-This is a dynamic portfolio that I crafted during my Coursera/IBM Full Stack courses, during this project, I mainly used HTML, CSS, and JS     
+IBM | Coursera Full Stack Courses: HTML, CSS, Js
+
+This is a dynamic portfolio that I crafted during my courses, during this project, I mainly used HTML, CSS, and Js.
 
 ----> https://jean-joooo.github.io/Full-Stack-Portofolio-Project-htmlcssjs-Coursera-IBM/
 
