@@ -1,4 +1,4 @@
-# Coursera | IBM Full Stack Courses: Portfolio creation with HTML, CSS, and Js
+# Coursera | IBM Full Stack Courses: Portfolio creation with HTML, CSS, and JS
 
 ----> https://jean-joooo.github.io/Full-Stack-Portofolio-Project-htmlcssjs-Coursera-IBM/
 
